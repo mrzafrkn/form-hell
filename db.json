@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1728307604829",
+      "firstName": "Pelin",
+      "lastName": "Çiçin",
+      "email": "pelincicin2@email.com",
+      "mobile": "654321",
+      "username": "plnccn",
+      "password": "pln123"
+    },
+    {
+      "id": 1728376508338,
+      "firstName": "Furkan",
+      "lastName": "Kalkan",
+      "email": "mirzafurkan@email.com",
+      "mobile": "5350000000",
+      "username": "mfkan",
+      "password": "mfkan10"
+    }
+  ]
+}
